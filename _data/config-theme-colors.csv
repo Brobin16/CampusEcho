@@ -1,9 +1,9 @@
 color_class,color
 primary,grey
-secondary,maroon
-success,#32a89c
+secondary,#271413
+success,#eeeeee
 info,#4232a8
-warning,#90a832
-danger,#a83259
-light,#a4c9e8
+warning,#808080
+danger,#854442
+light,#0d0606
 dark,#080812
