@@ -1,7 +1,7 @@
 color_class,color
 primary, #f3f6f4
 secondary, #000000
-success,#000000
+success,#f3f6f4
 info,#f3f6f4
 warning,#000000
 danger,#efecec
