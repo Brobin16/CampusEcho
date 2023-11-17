@@ -3,7 +3,7 @@ primary, #f3f6f4
 secondary, #000000
 success,#f3f6f4
 info,#f3f6f4
-warning,#000000
+warning,#f3f6f4
 danger,#efecec
 light,#0d0606
 dark,#000000
