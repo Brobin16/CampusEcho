@@ -2,7 +2,7 @@ color_class,color
 primary, #f3f6f4
 secondary, #000000
 success,#f3f6f4
-info,#0D0606
+info,#000000
 warning,#f3f6f4
 danger,#efecec
 light,#ffffff
