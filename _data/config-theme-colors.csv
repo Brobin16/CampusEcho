@@ -2,7 +2,7 @@ color_class,color
 primary, white
 secondary, #000000
 success,#efecec
-info,#CC0000
+info,#000000
 warning,#CC0000
 danger,#efecec
 light,#0d0606
