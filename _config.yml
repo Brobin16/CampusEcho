@@ -33,7 +33,7 @@ author: Black Experience Course Sections 02 and 04 Fall 2023
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: campusechometadatams
+metadata: group5csv
 
 ##########
 # Site/Organization Branding 
